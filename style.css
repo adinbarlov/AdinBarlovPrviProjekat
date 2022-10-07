@@ -1,0 +1,70 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.naslv{
+  text-align:center;
+  background-color: #9aa19c;
+}
+
+#linkovi{
+  text-align:center;
+}
+a{
+  margin-left:10px;
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  background-color:black;
+  color:white;
+}
+#opis{
+  text-align: center;
+}
+#pers{
+  align:center;
+  height:180px;
+  width:180px;
+}
+.glavni{
+  float:left;
+  
+}
+#konteiner{
+  margin-left:50px;
+}
+#slika{
+  height:360px;
+  width:360px;
+
+}
+p{
+  font-size: 16pt;
+
+
+}
+#about{
+margin-top:100px;
+
+  text-align: center;
+}
+iframe{
+  width:100%;
+  height:200px;
+}
+form{
+  margin-left:500px;
+  margin-top:50px;
+  width:33%;
+  background-color:#94a698;
+  text-align: center;
+}
+
+#social-container{
+  display:flex;
+  margin-top:100px;
+
+  justify-content: space-around;
+  align-items:center;
+}
